@@ -1,21 +1,17 @@
 /* style.css */
-
 .odd {
-  background-color: #ffe6e8;
-  font-family: Verdana, DejaVu Sans, sans-serif;
+  background-color: rgb(211, 147, 126);
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
-
-#second {
-  color: blue;
-  font-size: 36px;
+#number2 {
+  color: rgb(38, 38, 187);
+  font-size: 32px;
 }
-
-.medium {
-  font-size: 24px;
-}
-
-#big-green {
-  background-color: #99ff99;
+#number4 {
+  background-color: greenyellow;
   font-weight: bold;
-  font-size: 24px;
+  font-size: 30px;
+}
+.number3 {
+  font-size: 40px;
 }

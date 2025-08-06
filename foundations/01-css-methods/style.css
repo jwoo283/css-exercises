@@ -1,21 +1,10 @@
 /* style.css */
 
 div {
-  color: white;
   background-color: red;
-  font-size: 32px;
-  font-weight: bold;
-  text-align: center;
-}
-
-/*p {
-  background-color: green;
   color: white;
-  font-size: 18px;
+  font-size: 32px;
+  text-align: center;
+  font-weight: bold;
 }
 
-button {
-  background-color: orange;
-  font-size: 18px
-}
-*/
